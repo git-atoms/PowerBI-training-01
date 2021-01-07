@@ -12,6 +12,18 @@ Pomijam cały obszerny (w tym szkoleniu) wstęp związany z wprowadzeniem do cze
 
 <br>
 
+### Rozdział pierwszy: Poznajemy usługę Power BI
+
+<br>
+
+1. Kupujemy usługę i logujemy się do Power BI
+2. Rozpoczynamy pracę z usługą Power BI (online)
+3. Tworzymy nowy pulpit nawigacyjny
+4. Praca z pulpitami nawigacyjnymi
+5. Kafelki na pulpicie nawigacyjnym
+
+<br>
+
 > ### Podsumowanie:
 
 >
@@ -19,3 +31,8 @@ Pomijam cały obszerny (w tym szkoleniu) wstęp związany z wprowadzeniem do cze
 > + Interaktywne wizualizacje (**Power View**)
 > + Funkcje zapytań o dane (**Power Query**)
 > + Możliwości modelowania danych (**Power Pivot**)
+
+<br>
+
+> Hierarchia Power BI:
+> + Obszar roboczy (warto, żeby był osobny dla każdego projektu)
