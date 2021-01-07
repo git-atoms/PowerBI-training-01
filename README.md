@@ -1,2 +1,7 @@
-# PowerBI-training-01
-My training in PowerBI
+## Power BI
+
+*(Samokształcenie: kurs z Udemy)*
+
+
+---
+
