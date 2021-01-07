@@ -35,4 +35,12 @@ Pomijam cały obszerny (w tym szkoleniu) wstęp związany z wprowadzeniem do cze
 <br>
 
 > Hierarchia Power BI:
-> + Obszar roboczy (warto, żeby był osobny dla każdego projektu)
+> + **Obszar roboczy** (warto, żeby był osobny dla każdego projektu)
+>
+> + **Pulpity nawigacyjne** (a w nich zestawienie i podsumowanie poszczególnych raportów)
+>
+> + **Raporty** (w nich wizualizacje)
+>
+> + **Wizualizacje** (tworzone w oparciu o obiekty)
+>
+> + **Obiekty** (tabele, wykresy, mapy, liczniki i inne)
