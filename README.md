@@ -23,6 +23,7 @@ Pomijam cały obszerny (w tym szkoleniu) wstęp związany z wprowadzeniem do cze
 5. Kafelki na pulpicie nawigacyjnym (website, picture, text, video)
 6. Przypinamy kafelek raportu
 7. Przepinamy kafelek z jednego do drugiego pulpitu
+8. Przypinamy kafelek z arkusza programu Excel
 
 <br>
 
