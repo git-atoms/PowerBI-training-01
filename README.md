@@ -32,8 +32,6 @@ Pomijam cały obszerny (w tym szkoleniu) wstęp związany z wprowadzeniem do cze
 > + Funkcje zapytań o dane (**Power Query**)
 > + Możliwości modelowania danych (**Power Pivot**)
 
-<br>
-
 > Hierarchia Power BI:
 > + **Obszar roboczy** (warto, żeby był osobny dla każdego projektu)
 >
