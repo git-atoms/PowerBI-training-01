@@ -22,6 +22,7 @@ Pomijam cały obszerny (w tym szkoleniu) wstęp związany z wprowadzeniem do cze
 4. Praca z pulpitami nawigacyjnymi
 5. Kafelki na pulpicie nawigacyjnym (website, picture, text, video)
 6. Przypinamy kafelek raportu
+7. Przepinamy kafelek z jednego do drugiego pulpitu
 
 <br>
 
